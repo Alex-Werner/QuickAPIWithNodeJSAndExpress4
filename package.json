@@ -1,0 +1,17 @@
+{
+    "name": "CheetahServer",
+    "version": "0.1.0",
+    "dependencies": {
+        "express": "~4.9.5",
+		"body-parser": "~1.9.0",
+		"mongoose": "~3.8.10",
+		"JQDeferred": "~2.1.0",
+	    "mongodb": "~1.3.19",
+		"marked": "~0.3.2",
+		"morgan": "~1.3.2",
+		"method-override": "~2.2.0",
+		"cluster": "~0.7.7"
+    },
+    "author": "Alex Werner - SkylineCreationsSAS <obusco@gmail.com>",
+    "description": "Le serveur API permettant de faire le connecteur entre la BDD et le back-end/front-end"
+}

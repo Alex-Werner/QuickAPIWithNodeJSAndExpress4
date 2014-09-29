@@ -1,0 +1,8 @@
+{
+	"rest": {
+		"port": 1337
+	},
+	"db": {
+		"uri": "mongodb://localhost/skyerp"
+	}
+}
